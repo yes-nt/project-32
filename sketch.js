@@ -10,7 +10,7 @@ var plinko = [];
 var divisionHeight = 300;
 
 function preload() {
-    backgroundImg = loadImage("bg.png");
+    
 }
 
 function setup(){
