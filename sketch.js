@@ -46,7 +46,7 @@ function setup(){
 }
 
 function draw(){
-    background(backgroundImg);
+    background("black");
     Engine.update(engine);
     ground.display();
     if(frameCount % 60 === 0){
